@@ -1,0 +1,5 @@
+*.txt
+*.[properties]
+documentacion/
+claves/clave.txt
+/Clase.java
